@@ -1,0 +1,5 @@
+module SwiftNaCl [system] {
+    header "headers.h"
+    link "nacl"
+    export *
+}
