@@ -1,5 +1,5 @@
-module SwiftNaCl [system] {
+module SwiftSodium [system] {
     header "headers.h"
-    link "nacl"
+    link "sodium"
     export *
 }

@@ -1,4 +1,4 @@
-#include <nacl/crypto_box.h>
-#include <nacl/crypto_sign.h>
-#include <nacl/crypto_secretbox.h>
-#include <nacl/crypto_stream.h>
+#include <sodium/crypto_box.h>
+#include <sodium/crypto_sign.h>
+#include <sodium/crypto_secretbox.h>
+#include <sodium/crypto_stream.h>
